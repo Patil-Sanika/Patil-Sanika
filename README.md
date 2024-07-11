@@ -1,6 +1,6 @@
 <!--<img src="mern-stack-banner.png">-->
 <h1 align="center">Hello I'm Sanika Patil</h1>
-<h3 align="center">A passionate Full Stack development .</h3>
+<h3 align="center">A passionate about Full Stack development .</h3>
 <img align="right" alt="Coding" width="400" src="gif-image.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patil-sanika&label=Profile%20views&color=0e75b6&style=flat" alt="patil-sanika" /> </p>

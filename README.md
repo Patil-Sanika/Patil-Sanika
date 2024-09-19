@@ -1,23 +1,82 @@
-<!--<img src="mern-stack-banner.png">-->
-<h1 align="center">Hello I'm Sanika Patil</h1>
-<h3 align="center">A passionate about Full Stack development .</h3>
-<!-- <img align="right" alt="Coding" width="400" src="gif-image.gif"> -->
+<!--<img alt="Coding" src="https://github.com/SaxenaShourya/SaxenaShourya/assets/143955797/e5a6d997-deaf-4f4f-88c2-18e9c90a688c" />-->
 
+<hr/>
 
-- 🌱 I’m currently learning **MERN Stack (MongoDB,ExpressJs,ReactJs,NodeJs)**
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sanika+Patil!;Mern+Stack+Developer+💻;" />
+</h1>
 
-- 📫 How to reach me **patilsanika0711@gmail.com**
+<h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
+<h2 align="center">👋 I'm Sanika, a MERN stack developer !</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/patilsanika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/patilsanika" height="30" width="40" /></a>
+<br/>
+
+<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
+
+<!--<img align="right" width="250" alt="Coding" src=" " />-->
+
+<p align="left"> 
+🌟 MERN Developer 🚀
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+📫 Contact Me At **patilsanika0711@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patil-sanika&show_icons=true&locale=en&layout=compact" alt="patil-sanika" /></p>
+<h5>
+  🔗 Know more About me on <a href="www.linkedin.com/in/patilsanika">LinkedIn</a>
+</h5>
+
+<hr/>
+ 
+<h2 align="center">📚 My Stack 📚</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</div>
+
+<h2 align="center">🎨 Frontend 🎨</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
+</div>
+
+<h2 align="center">⚙️ Backend ⚙️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo" />
+</div>
+
+<h2 align="center">⚒️ Tools & Technologies ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,hoppscotch,vscode" />
+</div>
+<br/>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2> My Contributions </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SaxenaShourya/SaxenaShourya/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patil-sanika&show_icons=true&locale=en&layout=compact" alt="patil-sanika" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patil-sanika&show_icons=true&locale=en" alt="patil-sanika" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patil-sanika&" alt="patil-sanika" /></p>
+
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+;Let's+Connect!;" />
+</h1>
+

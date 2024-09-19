@@ -22,7 +22,7 @@
 📫 Contact Me At **patilsanika0711@gmail.com**
 
 <h5>
-  🔗 Know more About me on <a href="www.linkedin.com/in/patilsanika">LinkedIn</a>
+  🔗 Know more About me on <a href="https://www.linkedin.com/in/patilsanika/">LinkedIn</a>
 </h5>
 <h5>
   🔗 Know more About me on <a href="https://sanikapatilportfolio.netlify.app">Portfolio Website </a>

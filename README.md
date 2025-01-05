@@ -1,4 +1,4 @@
-<!--<img alt="Coding" src="https://github.com/SaxenaShourya/SaxenaShourya/assets/143955797/e5a6d997-deaf-4f4f-88c2-18e9c90a688c" />-->
+<!--
 
 <hr/>
 
@@ -13,7 +13,6 @@
 
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 
-<!--<img align="right" width="250" alt="Coding" src=" " />-->
 
 <p align="left"> 
 🌟 MERN Developer 🚀
@@ -51,13 +50,6 @@
 <br/>
 <hr/>
 
-<!--<div align="center">
-  <h2> My Contributions </h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SanikaPatil/SanikaPatil/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>--> 
 
 <hr/>
 
@@ -70,7 +62,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patil-sanika&" alt="patil-sanika" /></p>
 
-</div>
+</div>-->
 
 <br/><br/>
 

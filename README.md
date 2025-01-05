@@ -4,13 +4,12 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sanika+Patil!;Mern+Stack+Developer+💻;" />
-</h1>
+</h1>-->
 
-<h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
-<h2 align="center">👋 I'm Sanika, a MERN stack developer !</h2>
+<h4 align="center"> Welcome to my GitHub universe! </h4>
+<h2 align="center">👋 I'm Sanika</h2>
 
-<br/>
-
+<!--
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 
 
@@ -64,9 +63,6 @@
 
 </div>-->
 
-<br/><br/>
-
-<hr/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+;Let's+Connect!;" />

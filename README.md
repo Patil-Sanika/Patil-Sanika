@@ -9,7 +9,7 @@
 <h4 align="center"> Welcome to my GitHub universe! </h4>
 <h2 align="center">👋 I'm Sanika</h2>
 
-<!--
+
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 
 
@@ -61,7 +61,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patil-sanika&" alt="patil-sanika" /></p>
 
-</div>-->
+</div>
 
 
 <h1 align="center">
